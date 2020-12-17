@@ -6,15 +6,9 @@ function App() {
 
   return (
     <div>
-<<<<<<< HEAD
-      <Nav />
-      <main>
-          <About />        
-=======
       <Nav></Nav>
       <main>
         <About></About>
->>>>>>> develop
       </main>
     </div>
   );
