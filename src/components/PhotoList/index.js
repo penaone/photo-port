@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 
-const PhotoList = ({ category }) => {
+const Photolist = ({ category }) => {
 
   const [photos] = useState([
     {
@@ -119,4 +119,4 @@ const PhotoList = ({ category }) => {
   );
 };
 
-export default PhotoList;
+export default Photolist;
